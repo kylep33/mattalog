@@ -1,6 +1,6 @@
 # mattalog
 
-sends stuff i downloaded to the right folder on mattbot. one python file, no pip anything, just `python3` and `rsync`.
+sends stuff i downloaded to the right folder on mattbot. or anywhere else. needs`python3` and `rsync`.
 
 ## install
 
